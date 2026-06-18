@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# External cloned repos
+stag-python/
+
+# Videos / recordings
+*.mp4
+*.avi
+*.mov
+recorded_videos/
+
+# LaTeX temporary files
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
